@@ -1,0 +1,13 @@
+names:
+- LicensePlate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: license-plate-detector-ogxxg
+  url: https://universe.roboflow.com/snu-i6ovv/license-plate-detector-ogxxg/dataset/2
+  version: 2
+  workspace: snu-i6ovv
+test: ../test/images
+train: /content/License_plate_detection/License-Plate-Detector-2/train/images
+val: /content/License_plate_detection/License-Plate-Detector-2/valid/images
+
